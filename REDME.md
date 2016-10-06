@@ -1,0 +1,2 @@
+simple program
+mamata pal
